@@ -63,7 +63,7 @@ const Footer = () => {
         {/* Bottom Section */}
         <div className="mt-12 pt-6 border-t border-gray-600 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-gray-400 mb-4 md:mb-0">
-            © Bonazon.com 2024. All rights reserved
+            © CashbackWebsite.com 2024. All rights reserved
           </p>
           <div className="flex space-x-6">
             <FaFacebookF className="text-gray-400 hover:text-white cursor-pointer" />
